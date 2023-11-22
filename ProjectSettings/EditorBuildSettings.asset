@@ -14,6 +14,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/HelloVisionOS_Unbounded.unity
     guid: 16e04d8afc3c84b01a422cf22aa34235
+  - enabled: 0
+    path: Assets/Scenes/HelloVisionOS_Cube.unity
+    guid: 3785871a4d0f64183948e8d8a06ea850
   m_configObjects:
     UnityEditor.XR.VisionOS.VisionOSSettings: {fileID: 11400000, guid: 2c831117328ae4ddfbfacadc22fa316e,
       type: 2}
